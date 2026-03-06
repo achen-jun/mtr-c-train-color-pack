@@ -5,147 +5,147 @@
 			"color": "228B22",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_green.png"
+			"texture_id": "mtr:custom_directory/c_train_green_228B22.png"
 			},
 			"c_train_green_small": {
 			"name": "C-Train-森林绿(小型)",
 			"color": "228B22",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_green.png"
+			"texture_id": "mtr:custom_directory/c_train_green_228B22.png"
 			},
 			"c_train_green_mini": {
 			"name": "C-Train-森林绿(迷你)",
 			"color": "228B22",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_green.png"
+			"texture_id": "mtr:custom_directory/c_train_green_228B22.png"
 			},
 			"c_train_light_blue": {
 			"name": "C-Train-天空蓝",
 			"color": "00a2e1",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_light_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_light_blue_00a2e1.png"
 			},
 			"c_train_light_blue_small": {
 			"name": "C-Train-天空蓝(小型)",
 			"color": "00a2e1",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_light_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_light_blue_00a2e1.png"
 			},
 			"c_train_light_blue_mini": {
 			"name": "C-Train-天空蓝(迷你)",
 			"color": "00a2e1",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_light_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_light_blue_00a2e1.png"
 			},
 			"c_train_dark_blue": {
 			"name": "C-Train-深海蓝",
 			"color": "0000FF",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_dark_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_dark_blue_0000FF.png"
 			},
 			"c_train_dark_blue_small": {
 			"name": "C-Train-深海蓝(小型)",
 			"color": "0000FF",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_dark_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_dark_blue_0000FF.png"
 			},
 			"c_train_dark_blue_mini": {
 			"name": "C-Train-深海蓝(迷你)",
 			"color": "0000FF",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_dark_blue.png"
+			"texture_id": "mtr:custom_directory/c_train_dark_blue_0000FF.png"
 			},
 			"c_train_cyan": {
 			"name": "C-Train-薄荷青",
 			"color": "00FFFF",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_cyan.png"
+			"texture_id": "mtr:custom_directory/c_train_cyan_00FFFF.png"
 			},
 			"c_train_cyan_small": {
 			"name": "C-Train-薄荷青(小型)",
 			"color": "00FFFF",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_cyan.png"
+			"texture_id": "mtr:custom_directory/c_train_cyan_00FFFF.png"
 			},
 			"c_train_cyan_mini": {
 			"name": "C-Train-薄荷青(迷你)",
 			"color": "00FFFF",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_cyan.png"
+			"texture_id": "mtr:custom_directory/c_train_cyan_00FFFF.png"
 			},
 			"c_train_pink": {
 			"name": "C-Train-樱花粉",
 			"color": "f8779e",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_pink.png"
+			"texture_id": "mtr:custom_directory/c_train_pink_f8779e.png"
 			},
 			"c_train_pink_small": {
 			"name": "C-Train-樱花粉(小型)",
 			"color": "f8779e",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_pink.png"
+			"texture_id": "mtr:custom_directory/c_train_pink_f8779e.png"
 			},
 			"c_train_pink_mini": {
 			"name": "C-Train-樱花粉(迷你)",
 			"color": "f8779e",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_pink.png"
+			"texture_id": "mtr:custom_directory/c_train_pink_f8779e.png"
 			},
 			"c_train_orange": {
 			"name": "C-Train-琥珀橙",
 			"color": "FF8000",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_orange.png"
+			"texture_id": "mtr:custom_directory/c_train_orange_FF8000.png"
 			},
 			"c_train_orange_small": {
 			"name": "C-Train-琥珀橙(小型)",
 			"color": "FF8000",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_orange.png"
+			"texture_id": "mtr:custom_directory/c_train_orange_FF8000.png"
 			},
 			"c_train_orange_mini": {
 			"name": "C-Train-琥珀橙(迷你)",
 			"color": "FF8000",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_orange.png"
+			"texture_id": "mtr:custom_directory/c_train_orange_FF8000.png"
 			},
 			"c_train_purple": {
 			"name": "C-Train-葡萄紫",
 			"color": "800080",
 			"base_train_type": "c_train",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_purple.png"
+			"texture_id": "mtr:custom_directory/c_train_purple_800080.png"
 			},
 			"c_train_purple_small": {
 			"name": "C-Train-葡萄紫(小型)",
 			"color": "800080",
 			"base_train_type": "c_train_small",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_purple.png"
+			"texture_id": "mtr:custom_directory/c_train_purple_800080.png"
 			},
 			"c_train_purple_mini": {
 			"name": "C-Train-葡萄紫(迷你)",
 			"color": "800080",
 			"base_train_type": "c_train_mini",
 			"speed_sound_base_id": "c_train",
-			"texture_id": "mtr:custom_directory/c_train_purple.png"
+			"texture_id": "mtr:custom_directory/c_train_purple_800080.png"
 		}
 	}
 }
