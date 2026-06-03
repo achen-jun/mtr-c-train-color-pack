@@ -1,12 +1,12 @@
 # C-Train多彩列车包
 
-为[Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) MOD中的C-Train设计的资源包，增加更多腰线颜色。
+MTR-C-train_Color-Park是一个为[Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) MOD设计的资源包，增加了更多的C-Train列车腰线颜色。
 
 ![](assets/front-display.png)
 
 ## 增添更多颜色：
 
-在原版C-Train红色腰线的贴图为基础，新增了7种颜色：
+资源包使用了[原版Minecraft-Transit-Railway模组的C-Train红色腰线贴图](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/blob/master/fabric/src/main/resources/assets/mtr/textures/vehicle/c_train.png)为基础，新增了7种颜色：
 
 - 绿色：森林绿`#228B22`
 
@@ -46,11 +46,11 @@
 
 3. 在游戏中启用此资源包
 
-### 本地打包
+### 本地手动打包
 
 1. Git Clone本仓库
 
-2. 将`resource_pack`​文件夹的以下内容打包为ZIP文件并复制到Minecraft的`resourcepacks`目录中：
+2. 将`src`​文件夹的以下内容打包为ZIP文件并复制到Minecraft的`resourcepacks`目录中：
    
    ```language
    resource_pack/
@@ -66,43 +66,16 @@
 
 4. 确保已安装MTR模组
 
-### 版本修改
+### packup.py打包
 
-进入资源包文件夹下的pack.mcmeta，你将看到如下内容
+这是一个使用python编写的一个打包程序。
+#### 如何使用
 
-```mcmeta
-{
-    "pack": {
-        "pack_format": 6,
-        "description": "C-train多彩列车包\n作者：阿晨君"
-    }
-}
-```
+为确保运行正常，会要求下的没有旧的tmp会packup文件夹，如果有会请求是否删除（如果输入y将会删除文件夹，输入n或任意键将停止运行），之后填写需要打包的版本号即可在packup目录下看到打包好的所有版本
 
-将`"pack_format"`​的值更改为你使用的版本号：内容来自[Minecraft WiKi](https://zh.minecraft.wiki/w/%E8%B5%84%E6%BA%90%E5%8C%85#pack.mcmeta)
+#### 扩展
 
-| 版本               | 数字    |
-| ---------------- | ----- |
-| 1.6.1 - 1.8.9    | 1     |
-| 1.9 - 1.10.2     | 2     |
-| 1.11 - 1.12.2    | 3     |
-| 1.13 - 1.14.4    | 4     |
-| 1.15 - 1.16.1    | 5     |
-| 1.16.2 - 1.16.5  | 6     |
-| 1.17 - 1.17.1    | 7     |
-| 1.18 - 1.18.2    | 8     |
-| 1.19 - 1.19.2    | 9     |
-| 1.19.3           | 11-12 |
-| 1.19.4           | 13    |
-| 1.20 - 1.20.1    | 15    |
-| 1.20.2           | 16-18 |
-| 1.20.3 - 1.20.4  | 22    |
-| 1.20.5 - 1.20.6  | 32    |
-| 1.21 - 1.21.4    | 47    |
-| 1.21.5           | 55    |
-| 1.21.6 - 1.21.8  | 64    |
-| 1.21.9 - 1.21.10 | 69.0  |
-| 1.21.11          | 75.0  |
+如果需要添加更多的版本支持，可在程序中的`pack_format字典`中添加版本和pack_format数值即可
 
 ## 许可证
 
