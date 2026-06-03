@@ -1,6 +1,6 @@
 # C-Train多彩列车包
 
-MTR-C-train_Color-Park是一个为[Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) MOD设计的资源包，增加了更多的C-Train列车腰线颜色。
+MTR-C-train-Color-Park是一个为[Minecraft-Transit-Railway](https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway) MOD设计的资源包，增加了更多的C-Train列车腰线颜色。
 
 ![](assets/front-display.png)
 

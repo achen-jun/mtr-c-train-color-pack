@@ -75,7 +75,7 @@ for minecraft_releases,minecraft_pack_format in zip(minecraft_releases,minecraft
             }
         }, f)
     # 5.2、创建zip文件
-    with zipfile.ZipFile(f'packup/MTR_C-Train-Color-Park_{minecraft_releases}_{release}.zip', 'w') as zf:
+    with zipfile.ZipFile(f'packup/MTR_C-Train-Color-Park_{release}_{minecraft_releases}.zip', 'w') as zf:
         for root, dirs, files in os.walk('tmp'):
             for file in files:
                 path = os.path.join(root, file)
